@@ -1,4 +1,4 @@
-Protein 2 interactive views
+CD154 interactive views
 
 Serve this folder over HTTP, or place its contents at the selected GitHub Pages publishing root. index.html uses only bundled viewer/story assets. No build service or CDN is required to view it.
 
